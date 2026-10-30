@@ -1,0 +1,301 @@
+Soldier_ID,Age,Rank,Unit,Training_Hours,Fitness_Score,Attendance_Percent,Leave_Days,Medical_Category,Readiness_Status,Training_Result,Equipment_Category,Equipment_Status
+S0001,26,Sepoy,Bravo,87,88,91,8,Limited,Needs Training,Pass,Training Equipment,Serviceable
+S0002,39,Havildar,Delta,35,98,75,12,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0003,34,Officer,Bravo,71,58,69,29,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0004,30,Officer,Delta,13,71,89,0,Fit,Ready,Pass,Training Equipment,Serviceable
+S0005,27,Havildar,Delta,98,70,87,12,Review,Ready,Fail,Standard Rifle,Inspection Due
+S0006,40,Naik,Echo,118,100,100,19,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0007,26,Recruit,Alpha,51,56,79,25,Fit,Ready,Pass,Training Equipment,Serviceable
+S0008,45,Sepoy,Delta,98,43,67,21,Review,Needs Training,Pass,Training Equipment,Serviceable
+S0009,38,Officer,Charlie,27,37,60,6,Limited,Needs Training,Pass,Standard Rifle,Serviceable
+S0010,42,Naik,Alpha,49,84,89,1,Fit,Ready,Pass,Sidearm,Serviceable
+S0011,30,Recruit,Alpha,81,45,65,5,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0012,30,Recruit,Alpha,48,57,73,6,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0013,43,Naik,Echo,113,53,92,25,Review,Needs Training,Pass,Support Weapon,Serviceable
+S0014,40,Recruit,Delta,23,78,63,13,Fit,Needs Training,Fail,Training Equipment,Serviceable
+S0015,23,Sepoy,Echo,41,39,77,25,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0016,27,Lance Naik,Delta,60,41,96,17,Limited,Needs Training,Pass,Standard Rifle,Serviceable
+S0017,43,Naik,Echo,47,60,84,14,Fit,Review,Pass,Sidearm,Serviceable
+S0018,22,Naik,Echo,106,96,63,1,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0019,41,Sepoy,Charlie,32,48,74,9,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0020,40,Naik,Echo,72,59,68,22,Fit,Needs Training,Pass,Support Weapon,Under Maintenance
+S0021,21,Sepoy,Bravo,24,41,74,11,Fit,Needs Training,Pass,Training Equipment,Inspection Due
+S0022,43,Sepoy,Charlie,106,78,86,16,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0023,31,Havildar,Echo,34,74,63,7,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0024,25,Naik,Alpha,26,66,71,10,Fit,Ready,Pass,Training Equipment,Serviceable
+S0025,21,Havildar,Bravo,106,50,99,28,Limited,Needs Training,Pass,Training Equipment,Inspection Due
+S0026,40,Naik,Bravo,120,76,99,2,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0027,20,Naik,Bravo,75,92,65,26,Limited,Needs Training,Pass,Sidearm,Inspection Due
+S0028,31,Recruit,Charlie,87,84,100,5,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0029,45,Sepoy,Echo,62,73,83,8,Review,Ready,Pass,Standard Rifle,Serviceable
+S0030,41,Sepoy,Echo,113,94,73,5,Review,Ready,Pass,Training Equipment,Serviceable
+S0031,31,Sepoy,Alpha,113,100,75,8,Fit,Ready,Pass,Training Equipment,Serviceable
+S0032,44,Officer,Alpha,60,60,93,6,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0033,36,Sepoy,Bravo,48,81,84,30,Review,Review,Pass,Standard Rifle,Serviceable
+S0034,29,Officer,Alpha,60,62,66,8,Fit,Needs Training,Fail,Standard Rifle,Inspection Due
+S0035,35,Naik,Charlie,79,56,66,17,Fit,Needs Training,Fail,Sidearm,Serviceable
+S0036,34,Havildar,Echo,15,45,67,11,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0037,34,Lance Naik,Bravo,76,69,82,7,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0038,38,Naik,Alpha,16,91,88,7,Fit,Ready,Pass,Sidearm,Serviceable
+S0039,31,Lance Naik,Charlie,60,97,69,17,Review,Needs Training,Fail,Standard Rifle,Serviceable
+S0040,42,Sepoy,Charlie,81,86,96,27,Fit,Needs Training,Pass,Support Weapon,Under Maintenance
+S0041,39,Havildar,Alpha,51,61,85,29,Review,Ready,Pass,Standard Rifle,Serviceable
+S0042,44,Sepoy,Echo,73,71,100,19,Fit,Review,Pass,Training Equipment,Under Maintenance
+S0043,22,Recruit,Alpha,24,53,62,29,Fit,Needs Training,Pass,Training Equipment,Inspection Due
+S0044,24,Naik,Bravo,120,92,68,14,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0045,38,Sepoy,Alpha,38,88,64,26,Fit,Needs Training,Pass,Training Equipment,Inspection Due
+S0046,26,Officer,Charlie,42,54,64,30,Fit,Needs Training,Pass,Training Equipment,Inspection Due
+S0047,40,Officer,Alpha,103,55,85,6,Fit,Ready,Pass,Standard Rifle,Under Maintenance
+S0048,28,Officer,Echo,112,51,71,10,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0049,26,Sepoy,Delta,36,77,94,19,Fit,Ready,Pass,Training Equipment,Serviceable
+S0050,37,Recruit,Alpha,45,39,79,15,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0051,23,Officer,Echo,38,82,94,3,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0052,44,Lance Naik,Echo,47,62,77,5,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0053,33,Officer,Charlie,66,78,76,25,Fit,Ready,Pass,Training Equipment,Serviceable
+S0054,37,Officer,Echo,106,50,86,21,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0055,45,Havildar,Echo,110,96,65,25,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0056,28,Sepoy,Echo,36,59,91,30,Fit,Ready,Pass,Training Equipment,Serviceable
+S0057,45,Sepoy,Echo,64,81,94,2,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0058,40,Havildar,Bravo,42,83,97,30,Fit,Ready,Pass,Sidearm,Inspection Due
+S0059,21,Sepoy,Bravo,77,43,75,8,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0060,39,Sepoy,Charlie,95,67,87,27,Review,Ready,Pass,Standard Rifle,Serviceable
+S0061,34,Lance Naik,Alpha,75,97,68,9,Fit,Needs Training,Fail,Support Weapon,Under Maintenance
+S0062,26,Officer,Echo,19,64,63,13,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0063,31,Naik,Alpha,14,80,73,10,Fit,Ready,Pass,Sidearm,Serviceable
+S0064,27,Naik,Alpha,83,74,99,17,Fit,Ready,Pass,Training Equipment,Serviceable
+S0065,34,Recruit,Charlie,106,64,96,21,Fit,Ready,Pass,Support Weapon,Serviceable
+S0066,22,Naik,Echo,47,74,70,11,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0067,33,Officer,Echo,22,47,100,22,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0068,36,Sepoy,Delta,40,43,62,11,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0069,23,Lance Naik,Alpha,56,56,87,12,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0070,37,Havildar,Alpha,109,62,91,24,Fit,Ready,Fail,Standard Rifle,Inspection Due
+S0071,27,Havildar,Bravo,118,84,71,12,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0072,23,Naik,Delta,97,77,65,18,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0073,21,Naik,Bravo,61,79,84,25,Limited,Ready,Pass,Training Equipment,Serviceable
+S0074,25,Sepoy,Bravo,65,77,93,18,Fit,Ready,Fail,Standard Rifle,Serviceable
+S0075,41,Sepoy,Bravo,24,70,71,22,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0076,29,Havildar,Charlie,38,54,68,13,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0077,23,Havildar,Charlie,17,72,74,3,Fit,Ready,Pass,Standard Rifle,Under Maintenance
+S0078,41,Havildar,Bravo,14,60,99,12,Review,Needs Training,Pass,Support Weapon,Serviceable
+S0079,37,Officer,Delta,38,75,84,7,Fit,Ready,Pass,Sidearm,Serviceable
+S0080,45,Lance Naik,Alpha,56,96,64,28,Limited,Needs Training,Fail,Training Equipment,Serviceable
+S0081,31,Lance Naik,Delta,77,51,73,22,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0082,21,Havildar,Echo,85,63,96,20,Limited,Ready,Pass,Standard Rifle,Under Maintenance
+S0083,29,Naik,Charlie,54,91,83,22,Fit,Ready,Fail,Training Equipment,Inspection Due
+S0084,23,Naik,Alpha,11,77,74,18,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0085,33,Havildar,Alpha,36,59,97,11,Fit,Ready,Fail,Standard Rifle,Serviceable
+S0086,35,Officer,Echo,104,62,70,17,Fit,Ready,Pass,Standard Rifle,Under Maintenance
+S0087,34,Sepoy,Echo,45,64,64,5,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0088,27,Sepoy,Bravo,45,94,85,17,Fit,Review,Pass,Sidearm,Under Maintenance
+S0089,33,Recruit,Charlie,35,68,77,18,Review,Needs Training,Fail,Standard Rifle,Serviceable
+S0090,42,Naik,Charlie,52,44,65,21,Fit,Needs Training,Pass,Sidearm,Inspection Due
+S0091,44,Recruit,Delta,36,64,96,4,Fit,Review,Pass,Standard Rifle,Serviceable
+S0092,27,Lance Naik,Bravo,78,79,75,23,Fit,Ready,Pass,Training Equipment,Serviceable
+S0093,40,Lance Naik,Bravo,29,70,87,8,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0094,35,Sepoy,Bravo,20,48,64,26,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0095,32,Naik,Bravo,83,85,75,2,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0096,37,Recruit,Charlie,113,99,79,27,Fit,Needs Training,Fail,Support Weapon,Serviceable
+S0097,34,Recruit,Charlie,47,90,99,9,Fit,Ready,Pass,Standard Rifle,Inspection Due
+S0098,40,Havildar,Bravo,15,42,91,18,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0099,43,Sepoy,Delta,81,50,91,2,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0100,45,Sepoy,Alpha,32,81,62,28,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0101,44,Lance Naik,Alpha,56,55,99,28,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0102,32,Havildar,Delta,99,67,96,21,Fit,Ready,Pass,Training Equipment,Inspection Due
+S0103,28,Sepoy,Bravo,55,59,99,30,Fit,Ready,Pass,Standard Rifle,Inspection Due
+S0104,34,Naik,Charlie,116,70,89,14,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0105,32,Recruit,Alpha,21,94,72,0,Limited,Review,Pass,Training Equipment,Under Maintenance
+S0106,20,Recruit,Echo,99,87,95,6,Fit,Ready,Pass,Training Equipment,Inspection Due
+S0107,44,Lance Naik,Echo,22,38,65,11,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0108,26,Lance Naik,Delta,113,100,86,16,Fit,Ready,Pass,Standard Rifle,Inspection Due
+S0109,28,Naik,Bravo,71,93,78,29,Fit,Review,Pass,Standard Rifle,Serviceable
+S0110,43,Havildar,Alpha,91,83,78,20,Fit,Ready,Pass,No Weapon Assigned,Under Maintenance
+S0111,20,Officer,Bravo,98,42,100,30,Limited,Needs Training,Pass,Sidearm,Serviceable
+S0112,31,Lance Naik,Alpha,106,92,90,25,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0113,27,Sepoy,Delta,120,95,95,28,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0114,43,Havildar,Delta,113,78,100,23,Review,Needs Training,Pass,Support Weapon,Inspection Due
+S0115,30,Sepoy,Echo,69,90,72,19,Fit,Review,Pass,Standard Rifle,Serviceable
+S0116,38,Lance Naik,Bravo,52,64,84,4,Fit,Ready,Pass,Training Equipment,Serviceable
+S0117,36,Recruit,Echo,85,69,98,3,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0118,27,Recruit,Bravo,117,63,89,27,Fit,Ready,Pass,Training Equipment,Serviceable
+S0119,22,Officer,Echo,109,52,100,11,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0120,22,Havildar,Charlie,77,79,69,29,Review,Needs Training,Pass,Support Weapon,Inspection Due
+S0121,20,Naik,Charlie,14,46,64,19,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0122,24,Lance Naik,Charlie,46,73,90,27,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0123,29,Sepoy,Charlie,81,89,85,23,Review,Ready,Pass,Standard Rifle,Serviceable
+S0124,26,Sepoy,Alpha,115,100,72,17,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0125,45,Sepoy,Charlie,101,80,94,16,Review,Review,Pass,Standard Rifle,Serviceable
+S0126,28,Lance Naik,Delta,40,77,89,18,Fit,Review,Fail,Sidearm,Inspection Due
+S0127,26,Naik,Delta,18,70,98,8,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0128,28,Naik,Alpha,60,92,90,3,Fit,Ready,Pass,Standard Rifle,Inspection Due
+S0129,27,Sepoy,Charlie,38,71,77,25,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0130,31,Officer,Charlie,87,95,98,20,Fit,Needs Training,Pass,Support Weapon,Inspection Due
+S0131,21,Havildar,Charlie,49,84,61,1,Fit,Needs Training,Pass,Standard Rifle,Under Maintenance
+S0132,20,Lance Naik,Echo,50,62,73,3,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0133,35,Naik,Bravo,95,95,75,1,Fit,Ready,Pass,Support Weapon,Serviceable
+S0134,42,Lance Naik,Echo,20,58,88,14,Review,Needs Training,Pass,Standard Rifle,Inspection Due
+S0135,42,Sepoy,Bravo,32,41,71,1,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0136,43,Sepoy,Charlie,10,91,98,3,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0137,24,Havildar,Charlie,55,71,61,5,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0138,22,Recruit,Echo,110,100,94,6,Fit,Ready,Pass,Sidearm,Serviceable
+S0139,31,Recruit,Echo,30,72,72,9,Fit,Ready,Pass,Training Equipment,Serviceable
+S0140,27,Recruit,Bravo,99,88,89,18,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0141,41,Recruit,Delta,119,62,100,18,Fit,Needs Training,Pass,Sidearm,Inspection Due
+S0142,22,Havildar,Bravo,45,56,76,25,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0143,20,Naik,Echo,63,73,99,21,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0144,22,Lance Naik,Echo,96,93,93,28,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0145,24,Recruit,Alpha,66,82,93,11,Limited,Ready,Pass,Sidearm,Serviceable
+S0146,34,Lance Naik,Echo,10,52,83,2,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0147,33,Lance Naik,Alpha,72,98,94,12,Fit,Ready,Fail,Standard Rifle,Under Maintenance
+S0148,22,Sepoy,Delta,63,83,65,17,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0149,20,Lance Naik,Bravo,64,81,78,7,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0150,24,Sepoy,Bravo,49,71,89,20,Fit,Review,Pass,Standard Rifle,Serviceable
+S0151,45,Naik,Alpha,24,45,66,14,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0152,42,Naik,Bravo,30,62,69,0,Limited,Needs Training,Fail,Training Equipment,Inspection Due
+S0153,33,Recruit,Echo,56,40,100,2,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0154,26,Sepoy,Charlie,82,93,94,25,Fit,Ready,Pass,Sidearm,Serviceable
+S0155,28,Naik,Alpha,62,47,93,7,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0156,34,Lance Naik,Bravo,18,44,87,3,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0157,34,Havildar,Alpha,83,80,77,15,Fit,Ready,Pass,Standard Rifle,Under Maintenance
+S0158,45,Naik,Alpha,61,55,89,29,Fit,Ready,Fail,Support Weapon,Serviceable
+S0159,29,Sepoy,Charlie,66,40,96,22,Fit,Needs Training,Pass,Training Equipment,Inspection Due
+S0160,32,Recruit,Echo,35,62,88,9,Review,Needs Training,Pass,Training Equipment,Serviceable
+S0161,38,Naik,Alpha,50,99,81,11,Fit,Ready,Fail,Standard Rifle,Serviceable
+S0162,26,Recruit,Bravo,44,80,63,13,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0163,36,Naik,Delta,72,79,79,13,Fit,Needs Training,Pass,Standard Rifle,Under Maintenance
+S0164,39,Officer,Alpha,34,78,91,1,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0165,23,Naik,Alpha,99,66,98,22,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0166,24,Sepoy,Charlie,84,79,66,4,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0167,42,Naik,Echo,47,72,86,4,Fit,Review,Pass,Training Equipment,Serviceable
+S0168,26,Lance Naik,Delta,11,38,76,5,Review,Needs Training,Pass,Training Equipment,Under Maintenance
+S0169,32,Lance Naik,Bravo,16,85,71,12,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0170,34,Officer,Delta,91,77,84,8,Fit,Ready,Fail,No Weapon Assigned,Serviceable
+S0171,30,Sepoy,Bravo,100,85,79,29,Review,Ready,Pass,Standard Rifle,Serviceable
+S0172,23,Officer,Echo,43,81,69,21,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0173,32,Officer,Bravo,100,92,63,27,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0174,26,Sepoy,Charlie,26,66,81,28,Fit,Ready,Fail,No Weapon Assigned,Serviceable
+S0175,38,Recruit,Charlie,52,76,85,14,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0176,41,Recruit,Charlie,68,73,77,13,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0177,21,Recruit,Charlie,117,54,76,23,Limited,Needs Training,Pass,Standard Rifle,Serviceable
+S0178,29,Recruit,Delta,60,57,88,6,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0179,32,Naik,Echo,63,75,71,24,Fit,Ready,Fail,Training Equipment,Serviceable
+S0180,44,Recruit,Bravo,33,80,95,19,Fit,Ready,Pass,Training Equipment,Serviceable
+S0181,40,Sepoy,Bravo,34,95,94,1,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0182,25,Havildar,Charlie,80,99,74,6,Fit,Ready,Pass,Training Equipment,Serviceable
+S0183,31,Recruit,Charlie,61,87,66,5,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0184,31,Havildar,Alpha,79,100,91,16,Limited,Ready,Pass,Standard Rifle,Serviceable
+S0185,39,Sepoy,Echo,97,58,73,26,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0186,30,Recruit,Delta,42,47,92,24,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0187,45,Naik,Bravo,58,95,65,24,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0188,42,Naik,Alpha,38,92,74,27,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0189,44,Havildar,Alpha,72,88,91,1,Fit,Ready,Pass,Training Equipment,Serviceable
+S0190,26,Havildar,Bravo,116,89,73,2,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0191,20,Havildar,Delta,31,48,82,4,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0192,20,Sepoy,Alpha,35,53,85,4,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0193,44,Sepoy,Alpha,37,61,93,30,Fit,Ready,Fail,Standard Rifle,Serviceable
+S0194,44,Havildar,Echo,94,59,96,0,Review,Ready,Pass,Training Equipment,Serviceable
+S0195,39,Havildar,Delta,58,46,88,7,Limited,Needs Training,Pass,Standard Rifle,Inspection Due
+S0196,32,Officer,Alpha,80,71,66,11,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0197,28,Lance Naik,Delta,90,61,79,23,Fit,Ready,Fail,Support Weapon,Serviceable
+S0198,22,Sepoy,Bravo,93,57,97,3,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0199,26,Havildar,Charlie,114,65,75,12,Limited,Ready,Pass,Standard Rifle,Serviceable
+S0200,25,Sepoy,Alpha,58,75,100,22,Limited,Ready,Pass,Standard Rifle,Serviceable
+S0201,27,Officer,Echo,29,90,98,14,Fit,Ready,Pass,Training Equipment,Serviceable
+S0202,28,Havildar,Bravo,95,57,77,30,Review,Ready,Pass,No Weapon Assigned,Inspection Due
+S0203,24,Lance Naik,Delta,101,47,91,10,Fit,Needs Training,Pass,Sidearm,Under Maintenance
+S0204,20,Havildar,Bravo,72,47,88,9,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0205,38,Havildar,Alpha,70,64,70,2,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0206,29,Recruit,Delta,113,60,94,21,Fit,Ready,Pass,Standard Rifle,Inspection Due
+S0207,31,Officer,Charlie,58,63,61,13,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0208,43,Lance Naik,Bravo,80,52,76,15,Review,Needs Training,Pass,Training Equipment,Inspection Due
+S0209,34,Havildar,Alpha,10,50,79,9,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0210,41,Sepoy,Echo,105,100,84,28,Fit,Ready,Pass,Sidearm,Serviceable
+S0211,43,Officer,Delta,22,62,70,9,Fit,Ready,Pass,Training Equipment,Serviceable
+S0212,28,Sepoy,Bravo,103,82,89,11,Fit,Ready,Fail,Support Weapon,Inspection Due
+S0213,39,Recruit,Bravo,96,86,65,29,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0214,36,Officer,Charlie,60,64,76,8,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0215,36,Recruit,Charlie,65,86,87,0,Fit,Review,Fail,Training Equipment,Serviceable
+S0216,45,Sepoy,Echo,92,72,91,4,Limited,Review,Pass,Training Equipment,Serviceable
+S0217,39,Officer,Echo,71,49,80,19,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0218,31,Officer,Alpha,41,53,75,7,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0219,26,Naik,Alpha,39,44,96,10,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0220,21,Naik,Echo,38,54,79,11,Fit,Needs Training,Pass,Standard Rifle,Inspection Due
+S0221,22,Lance Naik,Echo,58,61,65,0,Fit,Needs Training,Pass,Standard Rifle,Inspection Due
+S0222,36,Sepoy,Delta,54,64,78,24,Fit,Ready,Pass,Sidearm,Serviceable
+S0223,24,Sepoy,Charlie,102,62,67,21,Review,Needs Training,Fail,Support Weapon,Serviceable
+S0224,36,Naik,Alpha,39,59,62,19,Fit,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0225,43,Havildar,Charlie,25,94,60,27,Limited,Needs Training,Pass,Standard Rifle,Serviceable
+S0226,36,Havildar,Charlie,49,44,97,24,Review,Needs Training,Pass,No Weapon Assigned,Serviceable
+S0227,36,Havildar,Echo,28,50,74,10,Fit,Needs Training,Pass,Standard Rifle,Under Maintenance
+S0228,21,Recruit,Delta,27,51,93,4,Limited,Needs Training,Pass,Sidearm,Under Maintenance
+S0229,21,Lance Naik,Bravo,10,88,94,14,Fit,Ready,Pass,Support Weapon,Serviceable
+S0230,41,Recruit,Delta,87,47,87,4,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0231,42,Lance Naik,Delta,56,47,83,11,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0232,24,Lance Naik,Charlie,75,90,71,4,Review,Needs Training,Pass,Standard Rifle,Serviceable
+S0233,20,Officer,Delta,101,89,80,16,Review,Ready,Pass,No Weapon Assigned,Serviceable
+S0234,20,Sepoy,Alpha,103,49,77,16,Review,Needs Training,Pass,Support Weapon,Serviceable
+S0235,38,Recruit,Charlie,47,87,75,23,Review,Ready,Fail,No Weapon Assigned,Serviceable
+S0236,21,Sepoy,Alpha,60,97,86,11,Fit,Review,Pass,Training Equipment,Serviceable
+S0237,40,Havildar,Bravo,72,62,67,23,Fit,Needs Training,Pass,Sidearm,Serviceable
+S0238,31,Naik,Charlie,13,64,84,27,Fit,Ready,Pass,Training Equipment,Serviceable
+S0239,45,Recruit,Bravo,10,53,76,14,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0240,25,Recruit,Charlie,17,66,88,14,Fit,Needs Training,Pass,Standard Rifle,Inspection Due
+S0241,42,Naik,Echo,38,67,67,5,Fit,Needs Training,Pass,Training Equipment,Under Maintenance
+S0242,23,Recruit,Delta,64,90,74,11,Limited,Needs Training,Pass,Training Equipment,Serviceable
+S0243,42,Havildar,Echo,112,81,89,26,Fit,Ready,Pass,Standard Rifle,Inspection Due
+S0244,30,Naik,Bravo,12,70,66,28,Review,Needs Training,Pass,Sidearm,Under Maintenance
+S0245,43,Recruit,Delta,41,55,62,19,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0246,36,Recruit,Charlie,19,94,88,17,Review,Ready,Pass,Training Equipment,Serviceable
+S0247,25,Officer,Delta,83,82,86,13,Limited,Needs Training,Fail,Support Weapon,Serviceable
+S0248,43,Sepoy,Alpha,92,79,65,1,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0249,24,Sepoy,Delta,119,59,82,8,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0250,39,Havildar,Alpha,43,51,74,30,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0251,21,Officer,Delta,106,72,87,4,Fit,Needs Training,Pass,Support Weapon,Serviceable
+S0252,25,Officer,Alpha,96,65,92,19,Fit,Ready,Pass,Training Equipment,Serviceable
+S0253,41,Havildar,Bravo,64,73,73,25,Fit,Ready,Pass,Sidearm,Serviceable
+S0254,30,Sepoy,Echo,101,85,69,28,Fit,Needs Training,Pass,Standard Rifle,Inspection Due
+S0255,35,Recruit,Charlie,41,97,76,0,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0256,35,Havildar,Delta,59,83,79,22,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0257,20,Lance Naik,Echo,16,69,95,2,Fit,Review,Pass,Training Equipment,Serviceable
+S0258,28,Lance Naik,Charlie,102,44,71,5,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0259,25,Officer,Charlie,17,72,97,4,Limited,Ready,Pass,Standard Rifle,Serviceable
+S0260,35,Recruit,Alpha,74,82,81,20,Fit,Ready,Pass,Support Weapon,Serviceable
+S0261,22,Lance Naik,Bravo,66,79,61,26,Limited,Needs Training,Pass,Standard Rifle,Serviceable
+S0262,39,Recruit,Bravo,76,65,86,4,Fit,Ready,Pass,Training Equipment,Serviceable
+S0263,23,Lance Naik,Echo,97,96,70,0,Fit,Review,Pass,Standard Rifle,Inspection Due
+S0264,38,Recruit,Bravo,96,64,73,16,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0265,45,Recruit,Delta,68,83,72,18,Fit,Ready,Fail,No Weapon Assigned,Serviceable
+S0266,22,Recruit,Bravo,81,79,79,13,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0267,38,Naik,Echo,63,53,67,11,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0268,39,Havildar,Bravo,120,98,83,9,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0269,26,Naik,Delta,110,91,80,19,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0270,39,Officer,Alpha,76,43,92,20,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0271,28,Sepoy,Echo,60,67,77,17,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0272,20,Sepoy,Alpha,106,63,93,23,Fit,Ready,Fail,Standard Rifle,Inspection Due
+S0273,27,Havildar,Alpha,101,66,100,26,Review,Review,Pass,Standard Rifle,Serviceable
+S0274,26,Sepoy,Alpha,120,55,94,10,Fit,Ready,Pass,Support Weapon,Serviceable
+S0275,37,Officer,Charlie,17,53,70,29,Fit,Needs Training,Fail,Training Equipment,Inspection Due
+S0276,27,Recruit,Charlie,43,70,84,1,Limited,Ready,Pass,Standard Rifle,Serviceable
+S0277,20,Officer,Alpha,44,53,92,24,Fit,Needs Training,Pass,Standard Rifle,Inspection Due
+S0278,30,Recruit,Echo,105,86,100,17,Fit,Review,Pass,Sidearm,Serviceable
+S0279,44,Officer,Delta,97,83,100,28,Limited,Ready,Pass,Training Equipment,Inspection Due
+S0280,44,Lance Naik,Delta,87,84,70,24,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0281,37,Officer,Bravo,41,39,70,6,Fit,Needs Training,Fail,Standard Rifle,Serviceable
+S0282,42,Recruit,Echo,55,93,81,30,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0283,29,Lance Naik,Charlie,116,77,86,23,Fit,Review,Pass,Standard Rifle,Serviceable
+S0284,22,Officer,Alpha,25,78,100,14,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0285,26,Lance Naik,Bravo,77,73,79,10,Fit,Ready,Pass,Support Weapon,Inspection Due
+S0286,35,Naik,Delta,46,67,71,17,Fit,Ready,Fail,Standard Rifle,Serviceable
+S0287,45,Naik,Charlie,63,97,91,22,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0288,35,Lance Naik,Charlie,94,95,77,11,Limited,Review,Pass,Standard Rifle,Serviceable
+S0289,44,Naik,Alpha,23,49,75,5,Review,Needs Training,Pass,Sidearm,Serviceable
+S0290,39,Naik,Delta,104,54,84,19,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0291,36,Officer,Echo,64,56,87,22,Fit,Ready,Pass,Training Equipment,Under Maintenance
+S0292,21,Recruit,Charlie,57,70,79,29,Fit,Ready,Pass,Standard Rifle,Serviceable
+S0293,20,Sepoy,Alpha,91,72,95,12,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0294,35,Officer,Echo,16,70,69,19,Fit,Needs Training,Pass,Standard Rifle,Serviceable
+S0295,31,Officer,Delta,83,99,100,15,Fit,Ready,Pass,Training Equipment,Serviceable
+S0296,24,Lance Naik,Charlie,16,74,91,17,Review,Ready,Pass,No Weapon Assigned,Serviceable
+S0297,24,Naik,Echo,42,83,92,9,Fit,Ready,Pass,No Weapon Assigned,Serviceable
+S0298,42,Sepoy,Echo,32,88,61,27,Fit,Needs Training,Pass,Training Equipment,Serviceable
+S0299,28,Sepoy,Echo,94,69,95,22,Fit,Ready,Pass,Training Equipment,Under Maintenance
+S0300,28,Lance Naik,Charlie,28,85,92,7,Fit,Ready,Pass,Support Weapon,Serviceable
